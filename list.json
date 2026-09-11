@@ -1,5 +1,18 @@
-[
-  {
+[ {
+    "url": "https://github.com/SpaceArellA/RboardRepo/raw/main/packs/BootleggerCustomized.zip",
+    "author": "SpaceArellA",
+    "tags": [
+       "Mine",
+       "Pink"
+    ],
+   "themes": [
+     "Bootlegger-customized"
+   ],
+   "size": ,
+   "date": 1637368604000,
+   "name": "SpaceArellA"
+}
+  
     "url": "https://github.com/GboardThemes/RepoTemplate/raw/main/packs/Rthemes.zip",
     "author": "RKBDI",
     "tags": [
@@ -11,7 +24,7 @@
       "000",
       "3d",
       "3damber",
-      "3dpink",
+      "3dpink", 
       "3dpurple",
       "FF0",
       "fusia",
